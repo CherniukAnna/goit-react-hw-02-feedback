@@ -46,9 +46,9 @@ export class App extends Component {
           </Section>
         ) : (
           <Notification message="There is no feedback"/>
-        )};
+        )}
       </>
-    );
+    )
   }
    
 }

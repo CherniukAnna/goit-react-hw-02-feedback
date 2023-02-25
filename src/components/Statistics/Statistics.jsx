@@ -26,8 +26,6 @@ export const Statistics = ({
             <li className={css.positive}>
                 Positive feedback: <span>{positivePercentage}%</span>
             </li>
-
-            
         </ul>
     );
 };
